@@ -10,3 +10,10 @@ Description:
    3. phpMyAdmin version 5.0.1 from xampp
    4. Java 1.8 development kit
    
+ To use the Project:
+  1. Download/Clone the repo, and open it with a desired editor preferably Eclipse
+  2. Also import the sql file into any of the databases.
+  3. In the editor run the file named "index.jsp" which is the main file.
+  
+  NOTE: Please Check that the Server and database are properly connected before running the file as it may be hard to debug later.
+   
