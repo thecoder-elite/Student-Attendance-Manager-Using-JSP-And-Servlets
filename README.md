@@ -16,3 +16,5 @@ Description:
   3. In the editor run the file named "index.jsp" which is the main file.
   
    
+![GitHub Logo](/SS1.JPG)
+![GitHub Logo](/SS2.JPG)
